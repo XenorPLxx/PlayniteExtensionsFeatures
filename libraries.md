@@ -24,7 +24,7 @@
 | Nintendo           |                 | •[^f]               |                   |                      |              |
 | NVIDIA GeForce Now | •[^i]           | •                   |                   |                      |              |
 | Oculus             | •               | •[^a][^b]           | •                 |                      |              |
-| Playstation        |                 | •                   |                   |                      |              |
+| Playstation        |                 | •                   |                   | •                    |              |
 | RAWG               | •               | •                   | •                 |                      |              |
 | Riot Games         | •               | •                   | ?                 | ?                    | ?            |
 | Robot Cache        | •               | •                   | •                 | ?                    | ?            |
